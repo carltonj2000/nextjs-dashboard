@@ -4,6 +4,12 @@ This is the starter template for the Next.js App Router Course. It contains the 
 
 For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
 
+### Code Creation Information
+
+```bash
+npm i @vercel/postgres
+```
+
 ### Carlton's Log
 
 - 12/21/23 - Cloned and started course
@@ -12,3 +18,13 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
   - 9:17 AM - completed ch3 - optimizing fonts and images
   - 9:40 AM - completed ch4 - creating layouts and pages
   - 9:59 AM - completed ch5 - navigating between pages
+  - 10:39 AM - completed ch6 - setup db
+
+### SQL Information
+
+```sql
+SELECT invoices.amount, customers.name
+FROM invoices
+JOIN customers ON invoices.customer_id = customers.id
+WHERE invoices.amount = 666;
+```
