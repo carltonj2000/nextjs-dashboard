@@ -8,6 +8,7 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 ```bash
 npm i @vercel/postgres
+npm i use-debounce
 ```
 
 ### Carlton's Log
@@ -22,7 +23,9 @@ npm i @vercel/postgres
   - 4:35 PM - completed ch7 - fetching data
   - 4:55 PM - completed ch8 - static and dynamic rendering
   - 6:05 PM - completed ch9 - streaming
-  - 6:35 PM - completed ch10 - Partial Prerendering
+  - 6:35 PM - completed ch10 - partial prerendering
+- 12/22/23 - Cloned and started course
+  - 12:30 PM - completed ch11 - search and pagination
 
 ### SQL Information
 
