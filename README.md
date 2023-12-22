@@ -22,6 +22,7 @@ npm i @vercel/postgres
   - 4:35 PM - completed ch7 - fetching data
   - 4:55 PM - completed ch8 - static and dynamic rendering
   - 6:05 PM - completed ch9 - streaming
+  - 6:35 PM - completed ch10 - Partial Prerendering
 
 ### SQL Information
 
