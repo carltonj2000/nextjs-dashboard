@@ -24,8 +24,10 @@ npm i use-debounce
   - 4:55 PM - completed ch8 - static and dynamic rendering
   - 6:05 PM - completed ch9 - streaming
   - 6:35 PM - completed ch10 - partial prerendering
-- 12/22/23 - Cloned and started course
+- 12/22/23 - continued course
   - 12:30 PM - completed ch11 - search and pagination
+- 03/22/24 - continued course
+  - 10:00 AM - completed ch12 - mutating data
 
 ### SQL Information
 
