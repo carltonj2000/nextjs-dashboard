@@ -28,6 +28,7 @@ npm i use-debounce
   - 12:30 PM - completed ch11 - search and pagination
 - 03/22/24 - continued course
   - 10:00 AM - completed ch12 - mutating data
+  - 1:00 PM - completed ch13 - handling errors
 
 ### SQL Information
 
