@@ -29,6 +29,7 @@ npm i use-debounce
 - 03/22/24 - continued course
   - 10:00 AM - completed ch12 - mutating data
   - 1:00 PM - completed ch13 - handling errors
+  - 3:00 PM - completed ch14 - improving accessibility
 
 ### SQL Information
 
