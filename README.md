@@ -32,6 +32,7 @@ npm i use-debounce
   - 3:00 PM - completed ch14 - improving accessibility
 - 03/25/24 - continued course
   - 10:37 AM - completed ch15 - authentication
+  - 11:25 AM - completed ch16 - metadata
 
 ### SQL Information
 
